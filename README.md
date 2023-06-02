@@ -1,2 +1,2 @@
 # SQL
-SQL queries
+SQL Q&A
